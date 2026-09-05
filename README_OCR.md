@@ -124,9 +124,10 @@ The final inference pipeline was also used to generate predictions for
   `test-10.png`    `7DUP98`
   `test-100.png`   `75Z4WT`
 
-> Add a representative distorted image to `sample_input/` and place its
-> predicted text/output in `sample_output/` when publishing the
-> repository.
+<img width="200" height="100" alt="test-0" src="https://github.com/user-attachments/assets/999ed5cf-d81d-4ebf-be72-e1cd9df817ec" />
+<img width="200" height="100" alt="test-1" src="https://github.com/user-attachments/assets/8c4a1c42-9435-4ff0-91b3-3f7095586a5a" />
+<img width="200" height="100" alt="test-10" src="https://github.com/user-attachments/assets/8e0b7628-0140-42aa-a59c-ad8ec5c984c1" />
+<img width="200" height="100" alt="test-100" src="https://github.com/user-attachments/assets/2db3f1da-6a14-4c3a-a56d-a00e161e182f" />
 
 ## Repository Structure
 
